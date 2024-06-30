@@ -5,4 +5,4 @@
 
 ![Miguel Ernandes GitHub status](https://github-readme-stats.vercel.app/api?username=MIGUELEDL&show_icons=true&theme=dark)
 
-![Demonstração](https://i.pinimg.com/originals/ee/91/f0/ee91f0316a30f78832e99f634fb15c5f.gif)
+![Demonstração](https://i.pinimg.com/originals/c1/62/f6/c162f611e1a932b4f977da2447394ec7.gif)
