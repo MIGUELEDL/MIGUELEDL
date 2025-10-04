@@ -1,4 +1,4 @@
-### Hello! my name is Miguel, I'm 20 years old, and I'm a beginner developer. 
+### Hello! my name is Miguel 
 
   ##
 
