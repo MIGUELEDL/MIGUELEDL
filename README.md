@@ -19,5 +19,4 @@
   <a href="https://www.linkedin.com/in/miguel-ernandes-6b07b72a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
- <img align="center" alt="imagem-milly" height="100" width="100" src="<img width="1024" height="1024" alt="ChatGPT Image 1_04_2025, 17_36_20" src="https://github.com/user-attachments/assets/52d527a9-f1fc-4913-879e-1c340b593e56" />
-">
+<img width="1024" height="1024" alt="ChatGPT Image 1_04_2025, 17_36_20" src="https://github.com/user-attachments/assets/52d527a9-f1fc-4913-879e-1c340b593e56" />
