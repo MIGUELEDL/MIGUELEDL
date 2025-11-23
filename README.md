@@ -21,4 +21,4 @@
 
 ##
 
-<img width="1024" height="1024" alt="ChatGPT Image 1_04_2025, 17_36_20" src="https://github.com/user-attachments/assets/52d527a9-f1fc-4913-879e-1c340b593e56" />
+<img width="1024" height="1024" alt="ChatGPT Image 1_04_2025, 17_36_20" src="https://lh3.googleusercontent.com/gg/AIJ2gl8SOG3wNdX67G4HPdKM3zTj5Qwe7DEVHFGqG7e0LeGJMvpmLiXtXoFKZeCI55_XfIvE05jK1ZG-Lu6DptpERTHG6TWClrBtJUjYIATIZdmbK8y98ZbzO_JBMWuYHHmkf8vAwf7d04KcbKaVPKety2IhNAmeYtIhcbUcFgMJ2Q6HJGWyRSVAiBJj6X2tZBlDn6oiE9VzANwHjOl9U6FU-Q0X3G7pXYp7tymLo1QVn8-eMnyi2B5By6Wz2-UAwQU0UZIH249NQLNKJV5ZnosfLhlKjCnLl4dtk_C6MytNcOKVXpJDUp95fKt9cCG9P3yaIOwS7reozub9PeWSpz1B_Cs=s1024-rj" />
