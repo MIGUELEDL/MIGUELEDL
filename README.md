@@ -21,5 +21,5 @@
 
 ##
 
-<img width="1024" height="1024" alt="<img width="1024" height="1024" alt="mario calvo github" src="https://github.com/user-attachments/assets/959d18cd-37aa-49ac-9937-e2f579cdb659" />
+<img width="700" height="500" alt="<img width="1024" height="1024" alt="mario calvo github" src="https://github.com/user-attachments/assets/959d18cd-37aa-49ac-9937-e2f579cdb659" />
 " />
