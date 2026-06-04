@@ -78,5 +78,9 @@
 </div>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGUELEDL&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/MIGUELEDL/MIGUELEDL/output/github-contribution-grid-snake-dark.svg">
 </p>
