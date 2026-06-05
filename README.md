@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ezgif.com-optimize.gif" width="40%">
+  <img src="./assets/gif github readme.gif" width="40%">
 </p>
 
 <h1 align="center">Miguel Ernandes</h1>
