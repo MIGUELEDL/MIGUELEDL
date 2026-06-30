@@ -57,6 +57,7 @@
 
 | nome | desc |
 | :--- | :--- |
+| **[Clashr_account_data](https://github.com/MIGUELEDL/clashr_account_data)** | Pipeline de dados extrai, carrega na cloud (AWS), trata e enriquece <br> informações utilizando a API do clash royale |
 | **[Spotify_Data_Pipeline](https://github.com/MIGUELEDL/spotify_data_pipeline)** | Pipeline de dados extrai, trata e enriquece <br> informações utilizando a API do spotify |
 | **[Project_Data_Football](https://github.com/MIGUELEDL/project_data_football)** | Pipeline de dados extrai, trata e enriquece <br> informações utilizando a API do CartolaFC |
 
